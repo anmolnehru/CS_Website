@@ -1,0 +1,106 @@
+.homePageColumn {
+margin-top: 1.5em;
+  z-index: 10;
+  float: left;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.homePageColumn h3 {
+  font-size: 1.1em;
+}
+.homePageColumn p {
+  padding: 0px;
+  margin: 5px 10px 0px 10px;
+}
+.homePageColumn a img {
+  border: 1px solid #900;
+}
+.homePageColumn img {
+  border: 1px solid #000;
+}
+#leftColumn {
+  text-align: center;
+}
+#leftColumn h4 {
+  margin: 0px;
+  margin-bottom: 10px;
+  font-size: 1em;
+}
+#leftColumn p {
+  margin: 0px;
+  padding: 0px;
+  padding-bottom: 15px;
+  line-height: 1em;
+}
+#column1 {
+  width: 64%;
+  margin-right: 20px;
+}
+
+/*specifically for chancellor home page content (pw) */
+
+#column1 h3 {
+	margin-top: 2em 0 1em 0;
+}
+
+
+/*-----------*/
+
+
+#column2 {
+  margin-top: 10px;
+  width: 30%;
+  border: 1px solid #D3C694;
+  padding: 10px 6px 10px 4px;
+  font-size: smaller;
+}
+#column2 h3 {
+  margin-top: 1em;
+  font-size: 1em;
+/*  padding-left: 10px; */
+}
+#leftColumn img {
+  border: 0px;
+  padding-left: 5px;
+}
+.homePageColumn a {
+  border-bottom: 0px !important;
+}
+#column2 img {
+  border: 0px !important;
+}
+.date {
+  color: #777;
+  font-size: .75em;
+  text-transform: uppercase;
+}
+
+#header #siteTitle {
+	background-position: 65px 22px;
+	background-repeat: no-repeat;
+	background-color: transparent;
+}
+
+#header #siteTitle span {
+  display: none;
+}
+
+acronym, abbr, dfn {
+	border: 0;
+	font-weight: inherit;
+	font-style: normal;
+	color: inherit;
+	cursor: help;
+}
+
+abbr.initialism { speak: spell-out; }
+acronym, abbr.truncation { speak: normal; }
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    font-size: 0;
+    clear: both;
+    visibility: hidden;
+}

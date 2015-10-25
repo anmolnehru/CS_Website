@@ -1,0 +1,5 @@
+#centerColumn .sheath, #innerpage {zoom: 1;}
+body { font-size: 80%; }
+#globalNav #gn-uwhome {display: inline; }
+#globalNav #gn-people {margin-right: 5px;}
+#content ol, #content ul {margin-left: 25px;}
