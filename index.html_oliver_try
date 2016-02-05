@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Anmol Mohanty</title>
+<style type="text/css" media="all">
+  @import "http://pages.cs.wisc.edu/~amohanty/css/uw.css";
+  @import "http://pages.cs.wisc.edu/~amohanty/css/uwtwocolumn.css";
+  @import "http://pages.cs.wisc.edu/~amohanty/css/localSite.css";
+</style>
+
+<style type="text/css" media="print">
+  @import "css/print.css";
+</style>
+
+</head>
+<body>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3994192-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<!-- begin logo and UW global navigation -->
+  <div id="outerpage">
+    <div id="innerpage">
+          <div id="header">
+
+            <div id="globalNav">
+              <h3 class="hide">UW Global Navigation</h3>
+              <ul>
+                <li><a href="http://www.about.me/anmolece">About Me</a></li>
+                <li><a href="http://my.wisc.edu/">My UW</a></li>
+                <li><a href="http://www.wisc.edu/search/search.php">UW Search</a></li>
+              </ul>
+
+            </div> <!-- globalNav -->
+        <h1><span id="crest"><img src="images/crestTopper.gif" alt="The crest of the University of Wisconsin-Madison" /></span><a href="http://www.wisc.edu">University of Wisconsin-Madison</a></h1>
+        <h2 id="siteTitle"><span><a href="http://www.cs.wisc.edu/~amohanty">Anmol Mohanty</a></span></h2>
+          </div> <!-- header -->
+          <div id="content">
+            <div id="centerColumn">
+              <div class="sheath">
+
+<!-- Edits from Knill Harvard Math homepage -->
+
+
+<!--<div id="curse0" style="visibility:visible;position:absolute;z-index:4"><a href="oliver/index.html"><img src="oliver/oliver.png" width="176" height="200" alt="Oliver Knill" border="0" /></a></div>-->
+<div id="curse1" style="visibility:visible;position:absolute;z-index:3"><a href="360/1000.html"><img src="360/1000.jpg" alt="" border="0" /></a></div>
+<div id="curse2" style="visibility:visible;position:absolute;z-index:3"><a href="360/1000.html"><img src="360/1000.jpg" alt="" border="0" /></a></div>
+<div id="curse3" style="visibility:visible;position:absolute;z-index:3"><a href="360/1000.html"><img src="360/1000.jpg" alt="" border="0" /></a></div>
+
+<div class="main">
+<script type="text/javascript">
+<!--
+    // written by oliver knill, http://www.math.harvard.edu/~knill, June 2007
+// this script is put in the public domain
+
+var neu=-1; 
+var xx=0; var yy=0; 
+var xleft,xmiddle,xright; 
+var vx=0; 
+var x=0;
+var o=200;
+var control=1; 
+
+function initialize(){
+document.getElementById("curse0").style.top  = 0 + "px";
+document.getElementById("curse0").style.left = 0 + "px";
+document.getElementById("curse1").style.top  = 0 + "px";
+document.getElementById("curse1").style.left = -200 + "px";
+document.getElementById("curse2").style.top  = 0 + "px";
+document.getElementById("curse2").style.left = 1600+200 + "px";
+document.getElementById("curse3").style.top  = 0 + "px";
+document.getElementById("curse3").style.left = 0 + "px";
+//document.getElementById("curse4").style.top  = 100 + "px";
+//document.getElementById("curse4").style.left = 176 + "px";
+}
+
+
+function pos(e){
+  if (navigator.appName == 'Netscape'){ xx = e.pageX; yy = e.pageY;} else{
+  xx = event.clientX; yy = event.clientY;}; 
+  if (yy<200) { control=1; } else { control=0; }
+}
+
+function c(){
+  if (neu==-1) { initialize(); neu=1; }
+  if (control==1) {
+    if (xx>500) { o-=2; } else { o+=2; } 
+    if (o>=1600) {o=o-1600; } if (o<=-1600) {o=o+1600; }
+    x=x-o; xx=xx-o; x=(9*x+xx)/10; x=x+o; xx=xx+o; 
+    if (x>=1600) {x-=1600; } if (x<=-1600) {x+=1600; }
+    xleft=x-1600-o; xright=x+1600-o; xmiddle=x-o; 
+    if (xleft  >=   0) {xleft   -=1600; } if (xleft  <=-1600)  {xleft   +=1600; }
+    if (xmiddle>=1600) {xmiddle -=1600; } if (xmiddle<=    0)  {xmiddle +=1600; }
+    if (xright >=3200) {xright  -=1600; } if (xright<=- 1600)  {xright  +=1600; }
+    document.getElementById("curse1").style.left = xleft   + "px";
+    document.getElementById("curse2").style.left = xmiddle + "px";
+    document.getElementById("curse3").style.left = xright  + "px";
+  }
+  start=setTimeout('c()',30);
+}
+
+start=setTimeout('c()',0);
+document.onmousemove=pos;
+-->
+</script>
+<center><table width="95%" cellpadding="10"><tr valign="top"><td width="70%">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ************************************************************ -->
+<!-- BEGIN MAIN CONTENT AREA -->
+<!-- ************************************************************ -->
+
+               <h3></h3>
+<p>I am a 2nd year Grad student in <a href="http://www.cs.wisc.edu/">Computer Sciences</a> at the <a href="http://www.wisc.edu/">University of Wisconsin-Madison.</a> 
+I expect to graduate with a Master's degree in CS in May 2016. 
+</p>
+<p>I am broadly interested in High performance systems, Databases and Computer Vision. 
+I work with <a href="https://www.biostat.wisc.edu/~vsingh/">Prof. Vikas Singh</a> and <a href="http://pages.cs.wisc.edu/~hwkim/index.html">Hyunwoo Kim</a> in applying computer vision and statistical modelling to solve interesting problems with brain images. My main thrust here is to move a complex image processing application developed by Hyunwoo to the Amazon AWS cloud in an economical way without compromising performance. More details can be found here <a href="placeholder.com">Placehoder text</a> 
+</p>
+<p>
+I received my Bachelor's (with Honours) in <a href="http://www.ecdept.iitkgp.ernet.in/">Electronics and Communication Engineering.</a> from the <a href="http://www.iitkgp.ac.in">Indian Institute of Technology Kharagpur (IIT Kharagpur)</a> in 2013. I also earned a minor in <a href="http://cse.iitkgp.ac.in/">Computer Science</a> from there.</p>
+
+
+
+                <h3><a href="resume/CV_AnmolMohanty.pdf">Resume</a></h3>
+
+                <h3><a href="http://www.cs.wisc.edu/~amohanty/research">Research</a></h3>
+
+<!--                <h3><a href="http://www.cs.wisc.edu/~amohanty/magic">Live Dynamic page about me</a></h3>   -->
+
+
+	<marquee behavior="alternate"><h3><a href="http://www.cs.wisc.edu/~amohanty/magic">Live Dynamic page about me</a></h3></marquee>
+
+	<!--	<p><h4><<a href="http://www.cs.wisc.edu/~amohanty/projects/redundancy/">-Redundancy in Packet Contents on Internet Routers<></h4></p>
+        -->	
+
+
+<!-- ************************************************************ -->
+<!-- END MAIN CONTENT AREA -->
+<!-- ************************************************************ -->
+                
+          </div> <!-- centerColumn sheath -->         
+        </div> <!-- centerColumn -->
+
+        <div id="leftColumn">
+          <div class="sheath">
+          <h2 class="hide">Menu</h2>
+          
+<!-- ************************************************************ -->
+<!-- BEGIN LEFT MENU COLUMN CONTENT -->
+<!-- ************************************************************ -->
+        
+<ul>
+  <li><a href="http://www.cs.wisc.edu/~amohanty">Home</a></li>
+  <li><a href="http://www.cs.wisc.edu/~amohanty/magic">Dynamic Page about me</a>
+  <li><a href="http://pages.cs.wisc.edu/~amohanty/images">Photography</a>
+  <li><a href="http://www.cs.wisc.edu/~amohanty/projects">Research</a>
+    <ul>
+      <li><a href="http://pages.cs.wisc.edu/~amohanty/projects/Brain Imaging & Analysis">Brain Imaging & Analysis</a></li>
+      <li><a href="http://pages.cs.wisc.edu/~amohanty/projects/Real-time Gaussian Blurring">Gaussian Blurring</a></li>
+      <li><a href="http://pages.cs.wisc.edu/~amohanty/projects/Big Data">Big Data</a></li>
+    </ul>
+  </li>
+  <li><a href="courses">Courses</a></li>
+  <li><a href="resume/CV_AnmolMohanty.pdf">Resume</a></li>
+  <li><a href="http://www.github.com/anmolnehru">Code</a></li>
+  <li><a href="http://www.cs.wisc.edu/~amohanty/contact">Contact</a></li>
+</ul>
+
+<!-- ************************************************************ -->
+<!-- END LEFT MENU COLUMN CONTENT -->
+<!-- ************************************************************ -->
+
+          </div>  <!-- leftColumn sheath -->
+        </div>  <!-- leftColumn -->
+
+      </div> <!-- content -->
+      <br style="clear: both;" />
+    </div> <!-- innerpage -->
+
+    <div id="footer">
+      <h2 class="hide">Page footer</h2>
+        <div id="pageinfo">
+          <p>
+          Feedback, questions or accessibility issues: amohanty [at] server(cs.wisc.edu)        </p>
+
+          <h3 class="hide">Copyright</h3>
+          <p>All contents unless otherwise noted are &copy; 2014-2016 <b>Anmol Mohanty</b>. All Rights Reserved. </p>
+          <p><a href="www.cs.wisc.edu/~amohanty/legalese">Terms of Use</a></p>
+        </div> <!-- pagenfo -->
+      </div> <!-- footer -->
+    </div> <!-- outerpage -->
+
+  </body>
+</html>
+
+
