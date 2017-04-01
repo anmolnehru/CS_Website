@@ -1,0 +1,199 @@
+CTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SHIELD - Free Bootstrap 3 Theme">
+    <meta name="author" content="Carlos Alvarez - Alvarez.is - blacktie.co">
+    <link rel="shortcut icon" href="ico/favicon.png">
+
+    <title> CS766 PROJECT</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link href="css/animate-custom.css" rel="stylesheet">
+
+
+    
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+    
+    <script src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/modernizr.custom.js"></script>
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
+  
+  
+  	<div id="navbar-main">
+      <!-- Fixed navbar -->
+	    <div class="navbar navbar-inverse navbar-fixed-top">
+	      <div class="container">
+	        
+	        <div class="navbar-collapse collapse">
+	          <ul class="nav navbar-nav">
+	            <li><a href="#home" class="smoothScroll">Home</a></li>
+				<li> <a href="#about" class="smoothScroll"> About</a></li>
+				<li> <a href="#proposal" class="smoothScroll"> Proposal</a></li>
+				<li> <a href="#midreport" class="smoothScroll"> Midterm Report</a></li>
+				<li> <a href="#finalreport" class="smoothScroll"> Final Report</a></li>
+				<li> <a href="#team" class="smoothScroll"> Team</a></li>
+	        </div><!--/.nav-collapse -->
+	      </div>
+	    </div>
+    </div>
+
+  
+  
+		<!-- ==== HEADERWRAP ==== -->
+	    <div id="headerwrap" id="home" name="home">
+			<header class="clearfix">
+	  		 		<h1>CS 766 PROJECT</h1>
+	  		 		<p> Image Filtering </p>
+	  		</header>	    
+	    </div><!-- /headerwrap -->
+
+		<!-- ==== ABOUT ==== -->
+		<div class="container" id="about" name="about">
+			<div class="row white">
+				<br>
+				<h1 class="centered">A LITTLE ABOUT OUR PROJECT</h1>
+				<hr>
+				
+				<div class="col-lg-6">
+					<p>We believe ideas come from everyone, everywhere. In fact, at BlackTie, everyone within our agency walls is a designer in their own right. And there are a few principles we believe—and we believe everyone should believe—about our design craft. These truths drive us, motivate us, and ultimately help us redefine the power of design. We’re big believers in doing right by our neighbors. After all, we grew up in the Twin Cities and we believe this place has much to offer. So we do what we can to support the community we love.</p>
+				</div><!-- col-lg-6 -->
+				
+				<div class="col-lg-6">
+					<p>Over the past four years, we’ve provided more than $1 million in combined cash and pro bono support to Way to Grow, an early childhood education and nonprofit organization. Other community giving involvement throughout our agency history includes pro bono work for more than 13 organizations, direct giving, a scholarship program through the Minneapolis College of Art & Design, board memberships, and ongoing participation in the Keystone Club, which gives five percent of our company’s earnings back to the community each year.</p>
+				</div><!-- col-lg-6 -->
+			</div><!-- row -->
+		</div><!-- container -->
+		
+		<!-- ==== SECTION DIVIDER1 -->
+		<section class="section-divider textdivider divider1">
+			<div class="container">
+				<h1>DESIGN EXPAND BOUNDARIES</h1>
+				<hr>
+				<p>To achieve real change, we have to expand boundaries. Because the Wild West of what-could-be is unexplored but rife with opportunity.</p>
+			</div><!-- container -->
+		</section><!-- section -->
+		
+		
+		<!-- ==== PROPOSAL ==== -->
+		<div class="container" id="proposal" name="proposal">
+			<br>
+			<br>
+			<div class="row">
+				<h2 class="centered">Proposal</h2>
+				<hr>
+				<br>
+				<div class="col-lg-offset-2 col-lg-8">
+					<p>Employees and consumers. Two halves of a brand’s entirety, the whole of a brand’s audience. Sometimes these two halves have very different viewpoints, creating a weak spot in the brand story. Weakness tarnishes credibility. Brands that aren’t credible aren’t viable.
+					</p>
+					<p>We squash weakness by designing the whole brand story. It’s crafted around the truism held by employees and consumers to create an experience that connects from the inside out.</p>
+					<p>By being true to the brand we represent, we elevate the audiences’ relationship to it. Like becomes love becomes a passion. Passion becomes advocacy. And we see the brand blossom from within, creating a whole story the audience embraces. That’s when the brand can truly flex its muscles.</p>
+				</div><!-- col-lg -->
+			</div><!-- row -->
+
+		</div><!-- container -->
+  		
+		<!-- ==== SECTION DIVIDER2 -->
+		<section class="section-divider textdivider divider2">
+			<div class="container">
+			</div><!-- container -->
+		</section><!-- section -->
+
+		<!-- ==== MIDTERM REPORT ==== -->
+		<div class="container" id="midreport" name="midreport">
+			<br>
+			<br>
+			<div class="row">
+				<h2 class="centered">Midterm Report</h2>
+				<hr>
+				<br>
+				<div>
+					<p>Employees and consumers. Two halves of a brand’s entirety, the whole of a brand’s audience. Sometimes these two halves have very different viewpoints, creating a weak spot in the brand story. Weakness tarnishes credibility. Brands that aren’t credible aren’t viable.
+					</p>
+					<p>We squash weakness by designing the whole brand story. It’s crafted around the truism held by employees and consumers to create an experience that connects from the inside out.</p>
+					<p>By being true to the brand we represent, we elevate the audiences’ relationship to it. Like becomes love becomes a passion. Passion becomes advocacy. And we see the brand blossom from within, creating a whole story the audience embraces. That’s when the brand can truly flex its muscles.</p>
+				</div><!-- col-lg -->
+			</div><!-- row -->
+		</div>
+
+		<section class="section-divider textdivider divider3">
+			<div class="container">
+			</div><!-- container -->
+		</section><!-- section -->
+
+		<!-- ==== FINAL REPORT ==== -->
+		<div class="container" id="finalreport" name="finalreport">
+			<br>
+			<br>
+			<div class="row">
+				<h2 class="centered">Final Report</h2>
+				<hr>
+				<br>
+				<div class="col-lg-offset-2 col-lg-8">
+					<p>Employees and consumers. Two halves of a brand’s entirety, the whole of a brand’s audience. Sometimes these two halves have very different viewpoints, creating a weak spot in the brand story. Weakness tarnishes credibility. Brands that aren’t credible aren’t viable.
+					</p>
+				</div><!-- col-lg -->
+			</div><!-- row -->
+			</div>
+
+		<section class="section-divider textdivider divider4">
+			<div class="container">
+			</div><!-- container -->
+		</section><!-- section -->
+
+		<!-- ==== TEAM MEMBERS ==== -->
+		<div class="container" id="team" name="team">
+		<br>
+			<div class="row white centered">
+				<h1 class="centered">CONTACT ME</h1>
+				<hr>
+				<br>
+				<br>
+				<div class="col-lg-12 centered">
+					<img class="img img-circle" src="img/team/yuting.jpg" height="120px" width="120px" alt="">
+					<br>
+					<h4><b>Yuting Liu</b></h4>
+					<span class="icon icon-facebook"></span> <a href="https://www.facebook.com/profile.php?id=100006157219038"> Yuting Liu </a> <br/>
+					<span class="icon icon-envelop"></span><a href="#"> liu487@wisc.edu </a>
+					<p>Yuting is now an MS student majored in CS and ECE departments, University of Wisconsin-Madison, Madison, WI. She is quite interested in Computer vision and database management. Want to learn more about her? Here is her personal website. <a href="http://www.yuting-liu.com">Yuting Liu's webpage</a></p>
+				</div><!-- col-lg-3 -->
+				
+			</div><!-- row -->
+		</div><!-- container -->
+
+
+		<div id="footerwrap">
+			<div class="container">
+				<h4>Created by Yuting Liu</a> - Copyright 2015</h4>
+			</div>
+		</div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+		
+
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/retina.js"></script>
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="js/smoothscroll.js"></script>
+	<script type="text/javascript" src="js/jquery-func.js"></script>
+  </body>
+</html>
+
+
